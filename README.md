@@ -35,8 +35,9 @@ Usage
 Prepare your dataset and place it in the data/ directory.
 Run the Jupyter Notebook or Python scripts for data preprocessing, feature engineering, model training, and evaluation.
 Experiment with different algorithms and hyperparameters to find the best model for stroke prediction.
-Results
 
+
+Results
 
 The project has evaluated and compared several classification algorithms, including Logistic Regression, Naive Bayes, Decision Trees, Random Forests, XGBoost, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), and ensemble techniques such as Voting, Bagging, and Stacking.
 
